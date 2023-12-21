@@ -1,0 +1,1 @@
+# We smooth an image when it has a lot of noise
